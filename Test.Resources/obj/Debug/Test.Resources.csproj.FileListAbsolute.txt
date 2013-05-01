@@ -7,4 +7,3 @@ C:\projects\Localization\Test.Resources\obj\Debug\Test.Resources.csproj.Generate
 C:\projects\Localization\Test.Resources\obj\Debug\de-DE\Test.Resources.resources.dll
 C:\projects\Localization\Test.Resources\obj\Debug\Test.Resources.dll
 C:\projects\Localization\Test.Resources\obj\Debug\Test.Resources.pdb
-C:\projects\Localization\Test.Resources\obj\Debug\Test.Resources.csprojResolveAssemblyReference.cache

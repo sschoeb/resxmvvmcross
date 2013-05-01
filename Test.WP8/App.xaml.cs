@@ -55,6 +55,9 @@ namespace Test.WP8
                 PhoneApplicationService.Current.UserIdleDetectionMode = IdleDetectionMode.Disabled;
             }
 
+            var setup = new Setup(RootFrame);
+            setup.Initialize();
+
         }
 
         // Code to execute when the application is launching (eg, from Start)

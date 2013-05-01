@@ -47,7 +47,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock Text="{wp8:LanguageBinding TextSource,Converter={StaticResource Language},ConverterParameter=AppTit}" />
+            <TextBlock Text="{Binding Path=Strings.MainViewModel_test1, Source={StaticResource Strings}}" />
         </Grid>
 
         <!--Uncomment to see an alignment grid to help ensure your controls are

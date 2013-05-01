@@ -15,7 +15,7 @@ namespace Test.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            Mvx.RegisterSingleton<IMvxTextProvider>(new ResxTextProvider(strings.ResourceManager));
+            Mvx.RegisterSingleton<IMvxTextProvider>(new ResxTextProvider(Strings.ResourceManager));
 
             RegisterAppStart<ViewModels.MainViewModel>();
         }

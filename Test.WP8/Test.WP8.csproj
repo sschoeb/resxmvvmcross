@@ -93,8 +93,6 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
-    <Compile Include="LanguageBinding.cs" />
-    <Compile Include="LocalizedStrings.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
@@ -181,6 +179,10 @@
     <ProjectReference Include="..\Test.Core\Test.Core.csproj">
       <Project>{5F3FEDC2-3057-4CED-98D9-52FEFB86E1D2}</Project>
       <Name>Test.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Test.Resources\Test.Resources.csproj">
+      <Project>{157E30C6-1BDF-4AE0-A49F-6E933C30D4B3}</Project>
+      <Name>Test.Resources</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />

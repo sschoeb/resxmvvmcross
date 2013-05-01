@@ -2,12 +2,12 @@
     x:Class="Test.WP8.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
-    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone">
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone" 
+    xmlns:resources="clr-namespace:Test.Resources;assembly=Test.Resources">
 
     <!--Application Resources-->
     <Application.Resources>
-        <local:LocalizedStrings xmlns:local="clr-namespace:Test.WP8" x:Key="LocalizedStrings"/>
+        <resources:LocalizedStrings x:Key="Strings"/>
     </Application.Resources>
 
     <Application.ApplicationLifetimeObjects>
