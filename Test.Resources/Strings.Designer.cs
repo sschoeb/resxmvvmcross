@@ -61,7 +61,7 @@ namespace Test.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to testDefault1.
+        ///   Looks up a localized string similar to Test Generic 1.
         /// </summary>
         public static string MainViewModel_test1 {
             get {
@@ -70,7 +70,7 @@ namespace Test.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to testDefault2.
+        ///   Looks up a localized string similar to Test Generic 2.
         /// </summary>
         public static string MainViewModel_test2 {
             get {

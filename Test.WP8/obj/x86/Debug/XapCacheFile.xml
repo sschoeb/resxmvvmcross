@@ -1,13 +1,13 @@
-﻿<xapCache source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.WP8_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="5/1/2013 5:15:59 PM">
-  <file source="C:\projects\Localization\Test.WP8\obj\x86\Debug\Test.WP8.dll" archivePath="Test.WP8.dll" lastWriteTime="5/1/2013 5:15:58 PM" />
-  <file source="C:\projects\Localization\Test.WP8\obj\x86\Debug\de-DE\Test.WP8.resources.dll" archivePath="de-DE\Test.WP8.resources.dll" lastWriteTime="5/1/2013 5:15:58 PM" />
-  <file source="C:\projects\Localization\Test.Resources\bin\Debug\de-DE\Test.Localization.resources.dll" archivePath="de-DE\Test.Localization.resources.dll" lastWriteTime="5/1/2013 5:11:35 PM" />
+﻿<xapCache source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.WP8_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="5/1/2013 5:23:30 PM">
+  <file source="C:\projects\Localization\Test.WP8\obj\x86\Debug\Test.WP8.dll" archivePath="Test.WP8.dll" lastWriteTime="5/1/2013 5:23:29 PM" />
+  <file source="C:\projects\Localization\Test.WP8\obj\x86\Debug\de-DE\Test.WP8.resources.dll" archivePath="de-DE\Test.WP8.resources.dll" lastWriteTime="5/1/2013 5:23:30 PM" />
+  <file source="C:\projects\Localization\Test.Resources\bin\Debug\de-DE\Test.Localization.resources.dll" archivePath="de-DE\Test.Localization.resources.dll" lastWriteTime="5/1/2013 5:22:22 PM" />
   <file source="C:\projects\Localization\Test.WP8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/30/2013 3:02:31 PM" />
-  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/1/2013 5:15:59 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="5/1/2013 5:22:26 PM" />
   <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/30/2013 3:02:31 PM" />
   <file source="C:\projects\Localization\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\sl4-wp71\Cirrious.CrossCore.dll" archivePath="Cirrious.CrossCore.dll" lastWriteTime="4/30/2013 10:45:02 AM" />
@@ -16,9 +16,9 @@
   <file source="C:\projects\Localization\packages\MvvmCross.HotTuna.StarterPack.3.0.5\lib\sl4-wp71\Cirrious.MvvmCross.dll" archivePath="Cirrious.MvvmCross.dll" lastWriteTime="4/30/2013 10:45:03 AM" />
   <file source="C:\projects\Localization\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\sl4-wp71\Cirrious.MvvmCross.Localization.dll" archivePath="Cirrious.MvvmCross.Localization.dll" lastWriteTime="4/30/2013 10:45:02 AM" />
   <file source="C:\projects\Localization\packages\MvvmCross.HotTuna.StarterPack.3.0.5\lib\sl4-wp71\Cirrious.MvvmCross.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.WindowsPhone.dll" lastWriteTime="4/30/2013 10:45:03 AM" />
-  <file source="C:\projects\Localization\Test.Core\bin\Debug\Test.Core.dll" archivePath="Test.Core.dll" lastWriteTime="5/1/2013 5:12:18 PM" />
-  <file source="C:\projects\Localization\Test.Resources\bin\Debug\Test.Localization.dll" archivePath="Test.Localization.dll" lastWriteTime="5/1/2013 5:11:34 PM" />
+  <file source="C:\projects\Localization\Test.Core\bin\Debug\Test.Core.dll" archivePath="Test.Core.dll" lastWriteTime="5/1/2013 5:22:22 PM" />
+  <file source="C:\projects\Localization\Test.Resources\bin\Debug\Test.Localization.dll" archivePath="Test.Localization.dll" lastWriteTime="5/1/2013 5:22:22 PM" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 2:48:22 AM" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.xml" archivePath="System.Windows.Interactivity.xml" lastWriteTime="8/17/2011 2:30:36 AM" />
-  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/1/2013 5:15:59 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="5/1/2013 5:22:26 PM" />
 </xapCache>

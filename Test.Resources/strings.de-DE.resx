@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainViewModel.test1" xml:space="preserve">
-    <value>testDeutsch1</value>
+    <value>Test Deutsch 1</value>
   </data>
   <data name="MainViewModel.test2" xml:space="preserve">
-    <value>testDeutsch2</value>
+    <value>Test Deutsch 2</value>
   </data>
 </root>
