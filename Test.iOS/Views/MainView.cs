@@ -1,28 +1,38 @@
+
+using System;
 using System.Drawing;
-using Cirrious.MvvmCross.Binding.BindingContext;
-using Cirrious.MvvmCross.Touch.Views;
-using MonoTouch.UIKit;
+
 using MonoTouch.Foundation;
+using MonoTouch.UIKit;
+using Cirrious.MvvmCross.Touch.Views;
+using Cirrious.MvvmCross.Binding.BindingContext;
 using Test.Core.ViewModels;
+using Cirrious.MvvmCross.Localization;
 
-namespace Test.iOS.Views
+namespace Test.iOS
 {
-    [Register("MainView")]
-    public class MainView : MvxViewController
-    {
-        public override void ViewDidLoad()
-        {
-            View = new UIView(){ BackgroundColor = UIColor.White};
-            base.ViewDidLoad();
+	public partial class MainView : MvxViewController
+	{
+		public MainView () : base ("MainView", null)
+		{
+		}
+		
 
-            var label = new UILabel(new RectangleF(10, 10, 300, 40));
-            Add(label);
-			label.Text = Localization.Strings.MainViewModel_test1;
+		
+		public override void ViewDidLoad ()
+		{
+			base.ViewDidLoad ();
+			
 
-			var label2= new UILabel(new RectangleF(10, 50, 300, 40));
-			Add(label2);
-			label2.Text = ((MainViewModel)ViewModel).TextSource.GetText("test2");
+			var bindingSet = this.CreateBindingSet<MainView, MainViewModel>();
+			bindingSet.Bind(Label1).To(ViewModel => ViewModel.TextSource)
+								   .WithConversion(new MvxLanguageConverter(),"test1")
+					.Apply();
 
-        }
-    }
+			bindingSet.Bind(Label2).To(ViewModel => ViewModel.TextSource)
+				.WithConversion(new MvxLanguageConverter(),"test2")
+					.Apply();
+		}
+	}
 }
+

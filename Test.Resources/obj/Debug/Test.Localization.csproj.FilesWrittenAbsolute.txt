@@ -1,0 +1,8 @@
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Localization.Strings.resources
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Localization.Strings.de-DE.resources
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/de-DE/Test.Localization.resources.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/bin/Debug/Test.Localization.dll.mdb
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/bin/Debug/Test.Localization.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/bin/Debug//de-DE/Test.Localization.resources.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Localization.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Localization.dll.mdb

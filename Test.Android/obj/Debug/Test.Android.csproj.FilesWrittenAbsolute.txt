@@ -1,0 +1,14 @@
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/bin/Debug/Test.Android.dll.mdb
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/bin/Debug/Test.Android.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/bin/Debug/Test.Android.apk
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/android/bin/Test.Android.apk
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/res/layout/splashscreen.xml
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/res/layout/mainview.xml
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/res/values/strings.xml
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/res/drawable/icon.png
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/res/values/mvxbindingattributes.xml
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/R.cs.flag
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/bin/Debug/Test.Android-Signed.apk
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/uploadflags.txt
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/Test.Android.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Android/obj/Debug/Test.Android.dll.mdb

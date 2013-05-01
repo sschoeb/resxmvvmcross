@@ -1,0 +1,4 @@
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Core/bin/Debug/Test.Core.dll.mdb
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Core/bin/Debug/Test.Core.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Core/obj/Debug/Test.Core.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Core/obj/Debug/Test.Core.dll.mdb

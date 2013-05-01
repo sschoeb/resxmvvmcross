@@ -1,0 +1,6 @@
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Resources.strings.resources
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Resources.strings.de-DE.resources
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Resources.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/bin/Debug/Test.Resources.dll.mdb
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/bin/Debug/Test.Resources.dll
+/Users/Stefan/Documents/projects/resxmvvmcross/Test.Resources/obj/Debug/Test.Resources.dll.mdb

@@ -1,0 +1,15 @@
+Cirrious.CrossCore.Touch.dll
+Cirrious.CrossCore.dll
+Cirrious.MvvmCross.Binding.Touch.dll
+Cirrious.MvvmCross.Binding.dll
+Cirrious.MvvmCross.Localization.dll
+Cirrious.MvvmCross.Touch.dll
+Cirrious.MvvmCross.dll
+Mono.Security.dll
+System.Core.dll
+System.Windows.dll
+System.Xml.dll
+System.dll
+Test.Core.dll
+Test.Localization.dll
+mscorlib.dll
