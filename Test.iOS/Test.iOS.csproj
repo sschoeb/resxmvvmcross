@@ -82,19 +82,22 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <Compile Include="Setup.cs" />
-    <Compile Include="Views\FirstView.cs" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="packages.config" />
+    <Compile Include="Views\MainView.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AppDelegate.cs.txt" />
     <Content Include="ToDo-MvvmCross\_ Touch UI.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Test.Core\Test.Core.csproj">
       <Project>{5F3FEDC2-3057-4CED-98D9-52FEFB86E1D2}</Project>
       <Name>Test.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Test.Resources\Test.Resources.csproj">
+      <Project>{157E30C6-1BDF-4AE0-A49F-6E933C30D4B3}</Project>
+      <Name>Test.Resources</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

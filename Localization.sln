@@ -237,7 +237,7 @@ Global
 		{109B97B4-1540-4541-B3F8-868859464AAA}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Test.Resources\Test.Resources.csproj
+		StartupItem = Test.iOS\Test.iOS.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
