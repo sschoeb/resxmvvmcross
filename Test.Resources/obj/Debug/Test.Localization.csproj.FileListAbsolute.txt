@@ -7,3 +7,4 @@ C:\projects\Localization\Test.Resources\bin\Debug\de-DE\Test.Localization.resour
 C:\projects\Localization\Test.Resources\obj\Debug\de-DE\Test.Localization.resources.dll
 C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.dll
 C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.pdb
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.csprojResolveAssemblyReference.cache

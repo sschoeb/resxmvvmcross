@@ -17,3 +17,5 @@ C:\projects\Localization\Test.iOS\obj\iPhone\Debug\Test.iOS.pdb
 C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Localization.dll
 C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Localization.pdb
 C:\projects\Localization\Test.iOS\bin\iPhone\Debug\de-DE\Test.Localization.resources.dll
+C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Core.dll.mdb
+C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Localization.dll.mdb

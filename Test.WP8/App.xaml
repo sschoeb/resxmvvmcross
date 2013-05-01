@@ -5,16 +5,17 @@
     xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
     xmlns:resources="clr-namespace:Test.Localization;assembly=Test.Localization">
 
-    <!--Application Resources-->
     <Application.Resources>
+        <!-- 
+        Include of the shared resources 
+        You can now use "Strings" as a StaticResource in the complete App
+        -->
         <resources:LocalizedStrings x:Key="Strings"/>
     </Application.Resources>
 
     <Application.ApplicationLifetimeObjects>
-        <!--Required object that handles lifetime events for the application-->
-        <shell:PhoneApplicationService
-            Launching="Application_Launching" Closing="Application_Closing"
-            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+        <shell:PhoneApplicationService Launching="Application_Launching" Closing="Application_Closing"
+                                       Activated="Application_Activated" Deactivated="Application_Deactivated"/>
     </Application.ApplicationLifetimeObjects>
 
 </Application>

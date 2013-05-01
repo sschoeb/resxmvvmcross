@@ -28,3 +28,5 @@ C:\projects\Localization\Test.Android\obj\Debug\uploadflags.txt
 C:\projects\Localization\Test.Android\bin\Debug\Test.Localization.dll
 C:\projects\Localization\Test.Android\bin\Debug\Test.Localization.pdb
 C:\projects\Localization\Test.Android\bin\Debug\de-DE\Test.Localization.resources.dll
+C:\projects\Localization\Test.Android\bin\Debug\Test.Core.dll.mdb
+C:\projects\Localization\Test.Android\bin\Debug\Test.Localization.dll.mdb
