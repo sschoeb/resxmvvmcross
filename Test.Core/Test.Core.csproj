@@ -14,6 +14,8 @@
     <TargetFrameworkProfile>Profile104</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProductVersion>12.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -39,7 +41,7 @@
     <Compile Include="ViewModels\MainViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
-  <Reference Include="System" />
+    <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Net" />
     <Reference Include="System.Runtime.Serialization" />
@@ -63,7 +65,7 @@
   <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Test.Resources\Test.Resources.csproj">
-      <Project>{157e30c6-1bdf-4ae0-a49f-6e933c30d4b3}</Project>
+      <Project>{157E30C6-1BDF-4AE0-A49F-6E933C30D4B3}</Project>
       <Name>Test.Resources</Name>
     </ProjectReference>
   </ItemGroup>

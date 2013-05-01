@@ -27,7 +27,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <AndroidUseSharedRuntime>True</AndroidUseSharedRuntime>
     <AndroidLinkMode>None</AndroidLinkMode>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -66,15 +65,14 @@
     <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll</HintPath>
-    </Reference>
     <Reference Include="System.Windows">
       <HintPath>..\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Windows.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
+    <Reference Include="System.Net">
+      <HintPath>..\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.Designer.cs" />
@@ -102,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Test.Core\Test.Core.csproj">
-      <Project>{5f3fedc2-3057-4ced-98d9-52fefb86e1d2}</Project>
+      <Project>{5F3FEDC2-3057-4CED-98D9-52FEFB86E1D2}</Project>
       <Name>Test.Core</Name>
     </ProjectReference>
   </ItemGroup>
