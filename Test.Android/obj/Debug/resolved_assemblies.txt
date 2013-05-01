@@ -1,0 +1,12 @@
+C:\projects\Localization\Test.Android\bin\Debug\Test.Android.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\projects\Localization\Test.Android\bin\Debug\System.Windows.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\projects\Localization\Test.Android\bin\Debug\Test.Core.dll
+C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\projects\Localization\Test.Android\bin\Debug\Test.Resources.dll
+C:\projects\Localization\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll

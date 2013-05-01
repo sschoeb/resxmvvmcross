@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.WP8_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/30/2013 3:02:39 PM">
+  <file source="C:\projects\Localization\Test.WP8\obj\x86\Debug\Test.WP8.dll" archivePath="Test.WP8.dll" lastWriteTime="4/30/2013 3:02:38 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/30/2013 3:02:38 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/30/2013 3:02:31 PM" />
+  <file source="C:\projects\Localization\Test.WP8\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/30/2013 3:02:39 PM" />
+</xapCache>

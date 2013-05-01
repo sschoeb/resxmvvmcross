@@ -1,0 +1,10 @@
+C:\projects\Localization\Test.Resources\bin\Release\Test.Resources.dll
+C:\projects\Localization\Test.Resources\bin\Release\Test.Resources.pdb
+C:\projects\Localization\Test.Resources\bin\Release\de-DE\Test.Resources.resources.dll
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.strings.resources
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.strings.de-DE.resources
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.csproj.GenerateResource.Cache
+C:\projects\Localization\Test.Resources\obj\Release\de-DE\Test.Resources.resources.dll
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.dll
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.pdb
+C:\projects\Localization\Test.Resources\obj\Release\Test.Resources.csprojResolveAssemblyReference.cache

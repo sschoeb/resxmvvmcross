@@ -1,0 +1,18 @@
+C:\projects\Localization\Test.Android\bin\Release\Test.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.MvvmCross.Droid.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.CrossCore.Droid.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v2.2\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Security.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.CrossCore.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.MvvmCross.dll
+C:\projects\Localization\Test.Android\bin\Release\System.Windows.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.MvvmCross.Binding.Droid.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.MvvmCross.Binding.dll
+C:\projects\Localization\Test.Android\bin\Release\Test.Core.dll
+C:\projects\Localization\Test.Android\bin\Release\Cirrious.MvvmCross.Localization.dll
+C:\projects\Localization\Test.Android\bin\Release\Test.Resources.dll
+C:\projects\Localization\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll
