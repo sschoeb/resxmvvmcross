@@ -3,9 +3,9 @@ C:\projects\Localization\Test.Core\bin\Debug\Test.Core.pdb
 C:\projects\Localization\Test.Core\bin\Debug\Cirrious.CrossCore.dll
 C:\projects\Localization\Test.Core\bin\Debug\Cirrious.MvvmCross.dll
 C:\projects\Localization\Test.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
-C:\projects\Localization\Test.Core\bin\Debug\Test.Resources.dll
-C:\projects\Localization\Test.Core\bin\Debug\Test.Resources.pdb
-C:\projects\Localization\Test.Core\bin\Debug\de-DE\Test.Resources.resources.dll
 C:\projects\Localization\Test.Core\obj\Debug\Test.Core.csprojResolveAssemblyReference.cache
 C:\projects\Localization\Test.Core\obj\Debug\Test.Core.dll
 C:\projects\Localization\Test.Core\obj\Debug\Test.Core.pdb
+C:\projects\Localization\Test.Core\bin\Debug\Test.Localization.dll
+C:\projects\Localization\Test.Core\bin\Debug\Test.Localization.pdb
+C:\projects\Localization\Test.Core\bin\Debug\de-DE\Test.Localization.resources.dll

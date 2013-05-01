@@ -2,8 +2,8 @@
     x:Class="Test.WP8.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone" 
-    xmlns:resources="clr-namespace:Test.Resources;assembly=Test.Resources">
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:resources="clr-namespace:Test.Localization;assembly=Test.Localization">
 
     <!--Application Resources-->
     <Application.Resources>

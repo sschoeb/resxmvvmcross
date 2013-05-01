@@ -1,4 +1,4 @@
-﻿namespace Test.Resources
+﻿namespace Test.Localization
 {
     public class LocalizedStrings
     {

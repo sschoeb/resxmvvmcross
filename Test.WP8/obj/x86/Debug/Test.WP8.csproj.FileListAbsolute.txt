@@ -26,12 +26,9 @@ C:\projects\Localization\Test.WP8\Bin\x86\Debug\Cirrious.MvvmCross.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Cirrious.MvvmCross.Localization.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Cirrious.MvvmCross.WindowsPhone.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Core.dll
-C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\System.Windows.Interactivity.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Core.pdb
-C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Resources.pdb
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\System.Windows.Interactivity.xml
-C:\projects\Localization\Test.WP8\Bin\x86\Debug\de-DE\Test.Resources.resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
@@ -41,3 +38,9 @@ C:\projects\Localization\Test.WP8\Bin\x86\Debug\ja\System.Windows.Interactivity.
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Localization.dll
+C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Localization.pdb
+C:\projects\Localization\Test.WP8\Bin\x86\Debug\de-DE\Test.Localization.resources.dll
+C:\projects\Localization\Test.WP8\Bin\x86\Debug\de-DE\Test.WP8.resources.dll
+C:\projects\Localization\Test.WP8\obj\x86\Debug\Test.WP8.Resources.AppResources.de-DE.resources
+C:\projects\Localization\Test.WP8\obj\x86\Debug\de-DE\Test.WP8.resources.dll

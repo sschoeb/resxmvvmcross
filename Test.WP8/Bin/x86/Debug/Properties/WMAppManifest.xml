@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
+  <Languages xmlns="">
+    <Language code="de-DE" />
+  </Languages>
   <App xmlns="" ProductID="{109b97b4-1540-4541-b3f8-868859464aaa}" Title="Test.WP8" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Test.WP8 author" Description="Sample description" Publisher="Test.WP8" PublisherID="{8cf3510d-a9f1-40d3-9b61-3634a2b807e1}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>

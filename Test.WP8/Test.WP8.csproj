@@ -15,8 +15,7 @@
     <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
     <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
     <SilverlightApplication>true</SilverlightApplication>
-    <SupportedCultures>
-    </SupportedCultures>
+    <SupportedCultures>de-DE</SupportedCultures>
     <XapOutputs>true</XapOutputs>
     <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
     <XapFilename>Test.WP8_$(Configuration)_$(Platform).xap</XapFilename>
@@ -150,6 +149,7 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.de-DE.resx" />
     <EmbeddedResource Include="Resources\AppResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
@@ -180,9 +180,9 @@
       <Project>{5F3FEDC2-3057-4CED-98D9-52FEFB86E1D2}</Project>
       <Name>Test.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Test.Resources\Test.Resources.csproj">
+    <ProjectReference Include="..\Test.Resources\Test.Localization.csproj">
       <Project>{157E30C6-1BDF-4AE0-A49F-6E933C30D4B3}</Project>
-      <Name>Test.Resources</Name>
+      <Name>Test.Localization</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />

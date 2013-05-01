@@ -76,7 +76,7 @@ class MonoPackageManager_Resources {
 		"Cirrious.MvvmCross.Binding.dll",
 		"Test.Core.dll",
 		"Cirrious.MvvmCross.Localization.dll",
-		"Test.Resources.dll",
+		"Test.Localization.dll",
 		"System.Net.dll",
 	};
 	public static final String[] Dependencies = new String[]{

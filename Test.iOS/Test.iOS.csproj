@@ -95,9 +95,9 @@
       <Project>{5F3FEDC2-3057-4CED-98D9-52FEFB86E1D2}</Project>
       <Name>Test.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Test.Resources\Test.Resources.csproj">
+    <ProjectReference Include="..\Test.Resources\Test.Localization.csproj">
       <Project>{157E30C6-1BDF-4AE0-A49F-6E933C30D4B3}</Project>
-      <Name>Test.Resources</Name>
+      <Name>Test.Localization</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

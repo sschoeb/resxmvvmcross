@@ -17,7 +17,7 @@ namespace Test.iOS.Views
 
             var label = new UILabel(new RectangleF(10, 10, 300, 40));
             Add(label);
-			label.Text = Resources.strings.MainViewModel_test1;
+			label.Text = Localization.Strings.MainViewModel_test1;
 
 			var label2= new UILabel(new RectangleF(10, 50, 300, 40));
 			Add(label2);

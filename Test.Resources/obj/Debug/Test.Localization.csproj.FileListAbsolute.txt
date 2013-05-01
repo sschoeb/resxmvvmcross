@@ -1,0 +1,9 @@
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.Strings.resources
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.Strings.de-DE.resources
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.csproj.GenerateResource.Cache
+C:\projects\Localization\Test.Resources\bin\Debug\Test.Localization.dll
+C:\projects\Localization\Test.Resources\bin\Debug\Test.Localization.pdb
+C:\projects\Localization\Test.Resources\bin\Debug\de-DE\Test.Localization.resources.dll
+C:\projects\Localization\Test.Resources\obj\Debug\de-DE\Test.Localization.resources.dll
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.dll
+C:\projects\Localization\Test.Resources\obj\Debug\Test.Localization.pdb

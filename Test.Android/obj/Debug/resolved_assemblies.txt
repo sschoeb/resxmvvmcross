@@ -8,5 +8,5 @@ C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid
 C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
 C:\projects\Localization\Test.Android\bin\Debug\Test.Core.dll
 C:\projects\Localization\Test.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
-C:\projects\Localization\Test.Android\bin\Debug\Test.Resources.dll
+C:\projects\Localization\Test.Android\bin\Debug\Test.Localization.dll
 C:\projects\Localization\packages\MvvmCross.HotTuna.CrossCore.3.0.5\lib\MonoAndroid16\System.Net.dll

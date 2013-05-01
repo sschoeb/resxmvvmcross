@@ -2,7 +2,7 @@ using Cirrious.CrossCore;
 using Cirrious.CrossCore.IoC;
 using Cirrious.MvvmCross.Localization;
 using Cirrious.MvvmCross.ViewModels;
-using Test.Resources;
+using Test.Localization;
 
 namespace Test.Core
 {

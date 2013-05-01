@@ -14,6 +14,6 @@ C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Core.pdb
 C:\projects\Localization\Test.iOS\obj\iPhone\Debug\Test.iOS.csprojResolveAssemblyReference.cache
 C:\projects\Localization\Test.iOS\obj\iPhone\Debug\Test.iOS.exe
 C:\projects\Localization\Test.iOS\obj\iPhone\Debug\Test.iOS.pdb
-C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Resources.dll
-C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Resources.pdb
-C:\projects\Localization\Test.iOS\bin\iPhone\Debug\de-DE\Test.Resources.resources.dll
+C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Localization.dll
+C:\projects\Localization\Test.iOS\bin\iPhone\Debug\Test.Localization.pdb
+C:\projects\Localization\Test.iOS\bin\iPhone\Debug\de-DE\Test.Localization.resources.dll

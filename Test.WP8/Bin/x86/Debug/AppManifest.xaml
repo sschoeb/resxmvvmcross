@@ -8,6 +8,9 @@
     <AssemblyPart x:Name="Cirrious.MvvmCross.Localization" Source="Cirrious.MvvmCross.Localization.dll" />
     <AssemblyPart x:Name="Cirrious.MvvmCross.WindowsPhone" Source="Cirrious.MvvmCross.WindowsPhone.dll" />
     <AssemblyPart x:Name="Test.Core" Source="Test.Core.dll" />
+    <AssemblyPart x:Name="Test.Localization" Source="Test.Localization.dll" />
     <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart Source="de-DE/Test.WP8.resources.dll" />
+    <AssemblyPart Source="de-DE/Test.Localization.resources.dll" />
   </Deployment.Parts>
 </Deployment>
