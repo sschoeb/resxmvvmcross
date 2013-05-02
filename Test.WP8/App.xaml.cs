@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Resources;
 using System.Windows;
 using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using Test.WP8.Resources;
+using Test.Localization;
 
 namespace Test.WP8
 {
@@ -196,7 +195,7 @@ namespace Test.WP8
                 //
                 // If a compiler error is hit then ResourceLanguage is missing from
                 // the resource file.
-                RootFrame.Language = XmlLanguage.GetLanguage(AppResources.ResourceLanguage);
+                RootFrame.Language = XmlLanguage.GetLanguage(Strings.);
 
                 // Set the FlowDirection of all elements under the root frame based
                 // on the ResourceFlowDirection resource string for each
