@@ -41,6 +41,3 @@ C:\projects\Localization\Test.WP8\Bin\x86\Debug\zh-Hant\System.Windows.Interacti
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Localization.dll
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\Test.Localization.pdb
 C:\projects\Localization\Test.WP8\Bin\x86\Debug\de-DE\Test.Localization.resources.dll
-C:\projects\Localization\Test.WP8\Bin\x86\Debug\de-DE\Test.WP8.resources.dll
-C:\projects\Localization\Test.WP8\obj\x86\Debug\Test.WP8.Resources.AppResources.de-DE.resources
-C:\projects\Localization\Test.WP8\obj\x86\Debug\de-DE\Test.WP8.resources.dll
